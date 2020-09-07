@@ -1,0 +1,16 @@
+/node_modules/
+/src/node_modules/@sapper/
+/cypress/screenshots/
+/__sapper__/
+
+# Logs
+yarn-error.log
+.DS_Store
+
+# Environment
+.env
+
+# Tempo
+__tempo__/registerAPI.js
+__tempo__/schema.graphql
+__tempo__/tempo/main.go
